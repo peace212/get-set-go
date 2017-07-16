@@ -1,0 +1,8 @@
+node_modules/
+bower_components/
+reports/
+.tmp/
+dist/
+npm-debug.log
+src/app/index.constant.js
+debug.log
